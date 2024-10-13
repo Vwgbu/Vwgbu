@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @Vwgbu
-- 👀 I’m interested in python css html 
-- 🌱 I’m currently in python
-
-- 📫 How to reach me change126975@gmail.com
-- 
-
-
-
-<!---
-Vwgbu/Vwgbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=23&duration=1578&pause=1000&color=1ACF67&width=435&height=60&lines=Lemme+quickly+Introduce+myself+to+y'all;I'm+Labib+%7C+Tech+enthusiasts+;I'm+interested+In+machine+learning+;My+primary+Frameworks+are+;Django+Flask+etc;I'm+a+web+developer+%7C+python+developer+;That's+it!;Bye!)](https://git.io/typing-svg)
