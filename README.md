@@ -12,6 +12,17 @@
 
 ---
 
+
+- **Socials**
+
+
+[![insta](https://img.shields.io/badge/Instagram-f82BEC2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l4blb1/)
+
+
+
+---
+
+
 ## 🎉 Support My Work
 If you enjoy my projects or just want to support a fellow coder, feel free to donate! 🚀
 
