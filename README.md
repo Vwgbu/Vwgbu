@@ -7,8 +7,4 @@ ugh you may donate using
 
 ![vwgbu's Stats](https://github-readme-stats.vercel.app/api?username=vwgbu&theme=cobalt&show_icons=true&hide_border=false&count_private=false)
 
-![vwgbu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vwgbu&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=vwgbu&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
-
 i dont really make things but i do contribute at small projects 
