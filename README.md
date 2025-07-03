@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="[https://i.postimg.cc/sf46KtRy/images.jpg" alt="sxvsh!" />
+<img src="https://i.postimg.cc/sf46KtRy/images.jpg" alt="sxvsh!" />
 </p>
 
 <p align="center">
